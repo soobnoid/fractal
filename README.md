@@ -1,3 +1,5 @@
 # fractal
 
-very incomplete SOCKS5 networking library.
+somewhat usable SOCKS5 networking library
+
+see examples
